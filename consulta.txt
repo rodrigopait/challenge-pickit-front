@@ -1,3 +1,0 @@
-1) al apretar cancelar en el borrar, y querer agregar un auto nuevo, 
-  queda el tituto en editar esto es por carEditing no se pone en null? 
-  Al ser una varibale del form deberia pasarse como prop desde el padre asi poder pasarsela al delete y ahi resetearla?
